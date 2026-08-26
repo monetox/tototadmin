@@ -1,0 +1,6 @@
+{
+  "name": "Adulis Luxury - Totot Kitfo Admin & Dining",
+  "description": "Elite admin dashboard and menu CMS for Totot Kitfo luxury restaurant, featuring real-time reservations, bento media management, site settings with live preview, and integrated dining portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
